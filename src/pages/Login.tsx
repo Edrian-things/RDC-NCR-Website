@@ -47,7 +47,7 @@ const Login: React.FC = () => {
               </svg>
             </div>
             <h1 className="text-2xl font-extrabold text-blue-800 mb-1 tracking-wide drop-shadow">
-              Employee Login
+              Login
             </h1>
             <p className="text-blue-900 text-xs">
               Sign in to access your portal
